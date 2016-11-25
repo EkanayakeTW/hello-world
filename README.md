@@ -10,3 +10,7 @@ dinushka
 =======
 Tiny Ekanayake
 >>>>>>> refs/heads/pr/3
+
+********************************
+all above errors are fixed 
+**************************
