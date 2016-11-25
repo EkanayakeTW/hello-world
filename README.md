@@ -16,4 +16,9 @@ all above errors are fixed
 **************************
 
 
+<<<<<<< HEAD
 after commit but can't see
+=======
+
+even i got the updated readme file
+>>>>>>> refs/heads/pr/6
